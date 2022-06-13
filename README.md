@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Misha 😇 it's so nice to meet you! 
+##### I'm an aspiring data journalist, currently pursuing my MS from Columbia University 💙 
+##### I love turning complex visuals into fun graphics and I love telling stories in audio. 
+##### You can learn more about me <a href="https://mishavaid7.github.io/"> here </a> or connect with me on <a href="https://www.linkedin.com/in/mishavaid/"> LinkedIn. </a>
 
 <!--
 **mishavaid7/mishavaid7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
